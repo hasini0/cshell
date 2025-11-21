@@ -37,6 +37,3 @@ Max path length: 4096.
 
 ### Specification 8
 
-## Usage of AI
-
-The PDF has been added in `pdfs/gpt1.pdf`.
