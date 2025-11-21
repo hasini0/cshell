@@ -36,4 +36,3 @@ Max path length: 4096.
 ### Specification 7
 
 ### Specification 8
-
